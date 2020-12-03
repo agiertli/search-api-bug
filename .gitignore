@@ -1,0 +1,12 @@
+target/
+.factorypath
+*.class
+transaction-logs/
+output
+.DS_Store
+.classpath
+.deptree
+.idea
+*.iml
+.settings
+.DS_Store
